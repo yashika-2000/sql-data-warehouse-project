@@ -103,7 +103,8 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
-
+RAW FILES ARE MY WORKING FILES WITH COMMENTS & ALL QUERIES DONE BEHIND THE SCENE
+MIGHT HELP YOU 
 ---
 
 ## 🛡️ License
